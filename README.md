@@ -1,12 +1,4 @@
 [UserSignUps_CaseStudy.md](https://github.com/user-attachments/files/29530800/UserSignUps_CaseStudy.md)
----
-title: "Event User Sign Ups Case Study"
-format:
-  html:
-    toc: true
-    code-fold: false
-    self-contained: true
----
 # Goal: Explore the pattern of sign-up rates across diﬀerent events.
 
 ## Set up SQLite connection
